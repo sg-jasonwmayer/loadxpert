@@ -1,0 +1,13 @@
+.wr-logo-container {
+  width: 50px;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  z-index: 3;
+
+  .loader-logo {  
+  visibility: visible;
+  width: 100%;
+  }
+
+}
